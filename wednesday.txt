@@ -1,0 +1,12 @@
+Earlier on today's class I was not understanding espessially
+in the first moments. I glad that I have already catched up.
+I have not connected my vs code to git but I will definetly do it 
+immediately after class.
+
+To intialize git ---> git init (we only do this once)
+To check a file command is -->git status
+To track a single file/ directory --> git add (file name/directory)
+To track all files --> git add
+Command to commit files/ directory --> git commit -m(commit message)
+
+Learning intro to git 
