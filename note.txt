@@ -6,7 +6,7 @@ To check a file command/file status -->git status
 To track a single file/directory --> git add(file/directory name)
 To track all files --> git add
 Command to commit files/ direcrory --> git commit -m(commit message)
-To verify creation of repo --> git remote -verifyT
+To verify creation of repo --> git remote -verify
 To push code to online repo --> git push -u main/master
 
 Hope this helps
