@@ -11,3 +11,17 @@ To push code to online repo --> git push -u main/master
 
 Hope this helps
 Thank you.
+
+Just realised that the above information is not that clear
+on adding a repository
+
+To initialize git -->git init (we only do this once)
+To check a file command/file status -->git status
+To track a single file/directory --> git add(file/directory name)
+To track all files --> git add
+Command to commit files/ direcrory --> git commit -m(commit message)
+
+To enter repo name --> git remote add origin(Link you coppied from Github)
+To verify creation of repo --> git remote -v
+Check status--> git status
+To push code to online repo --> git push -u main/master
