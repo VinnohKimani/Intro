@@ -25,3 +25,12 @@ To enter repo name --> git remote add origin(Link you coppied from Github)
 To verify creation of repo --> git remote -v
 Check status--> git status
 To push code to online repo --> git push -u main/master
+
+while trying to add changes to .txt file I encountered some challenges
+but worry no more I got you
+
+To add changes to repo file --> git add(name of file)
+To commit-->git commit (description)
+To add origin --> git remote add origin (SSH link of repo)
+To check status --> git status
+To push updates to repo --> git push 
